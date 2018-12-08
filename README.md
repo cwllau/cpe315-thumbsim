@@ -1,5 +1,5 @@
 # CPE 315 
-## ARM Thumb Simulator
+## ARM Thumb Simulator - Andy Adams, Colleen Lau
 
 In this project you will build an ARM Thumb simulator to examine performance 
 metrics of a given program. You are provided the support code for the 
